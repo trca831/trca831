@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trca831" alt="trca831" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and Node**
+- 🌱 I’m currently learning **Ruby on Rails! I am proficient in React. **
 
 - 📫 How to reach me **tracycano3.14@gmail.com**
 
