@@ -21,11 +21,19 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trca831&show_icons=true&locale=en&layout=compact&theme=dracula" alt="trca831" /></p>
 
+<br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=trca831&show_icons=true&locale=en&theme=dracula" alt="trca831" /></p>
+
+<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trca831&theme=dracula" alt="trca831" /></p>
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trca831&theme=dracula" alt="trca831" /></a> </p>
+
+<br>
 
 <p><a href="https://www.buymeacoffee.com/tracyc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="tracyc" /></a></p> 
 <br>
